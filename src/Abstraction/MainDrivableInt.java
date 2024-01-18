@@ -8,6 +8,7 @@ public class MainDrivableInt {
 		
 		bike1.Accelerate(20);
 		bike1.brake();
+		bike1.start();
 	}
 
 }
